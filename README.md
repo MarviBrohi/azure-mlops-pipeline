@@ -6,13 +6,16 @@
 
 # Azure MLOps Pipeline
 
-**CI/CD Status**  
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/yourusername/yourrepo/mlops-pipeline.yml?branch=main&label=MLOps%20Pipeline)  
-![Azure ML Deployment](https://img.shields.io/badge/Azure%20ML-Deployed-success)  
-![Python Version](https://img.shields.io/badge/python-3.10-blue)  
-![License](https://img.shields.io/badge/license-MIT-green)
+## CI/CD Status
 
-[Azure Portal](#) · [Documentation](#) · [Report Issue](#) · [Examples](#)
+[![GitHub Actions Workflow Status](https://img.shields.io/badge/GitHub%20Actions-Repo%20not%20found-lightgrey)](https://github.com/yourusername/azure-mlops-pipeline/actions)
+[![Azure ML Deployment](https://img.shields.io/badge/Azure%20ML-Deployed-success)](https://ml.azure.com)
+[![Python Version](https://img.shields.io/badge/python-3.10-blue)](https://python.org)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+---
+
+**Azure Portal** · [Documentation](#) · [Report Issue](#) · [Examples](#)
 
 ---
 
@@ -26,6 +29,7 @@ This project demonstrates a **production-ready MLOps pipeline** using:
 - **Python 3.10** – core language
 
 The pipeline handles:
+
 - ✅ Automated testing on PR
 - ✅ Model training on Azure ML compute
 - ✅ Model versioning and registry
@@ -37,6 +41,7 @@ The pipeline handles:
 ## 🚀 Quick Start
 
 ### Prerequisites
+
 - Azure subscription ([free trial](https://azure.microsoft.com/free/))
 - GitHub account
 - Python 3.10+
