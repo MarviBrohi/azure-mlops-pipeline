@@ -8,9 +8,9 @@
 
 ## CI/CD Status
 
-[![GitHub Actions Workflow Status](https://img.shields.io/badge/GitHub%20Actions-Repo%20not%20found-lightgrey)](https://github.com/yourusername/azure-mlops-pipeline/actions)
-[![Azure ML Deployment](https://img.shields.io/badge/Azure%20ML-Deployed-success)](https://ml.azure.com)
-[![Python Version](https://img.shields.io/badge/python-3.10-blue)](https://python.org)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Repo%20not%20found-lightgrey)](https://github.com/yourusername/azure-mlops-pipeline/actions)
+[![Azure ML](https://img.shields.io/badge/Azure%20ML-Deployed-success)](https://ml.azure.com)
+[![Python](https://img.shields.io/badge/python-3.10-blue)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---
